@@ -2,4 +2,6 @@ chicken
 fish
 pizza 
 hamburger
+chips
+
 
